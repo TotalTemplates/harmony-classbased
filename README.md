@@ -17,7 +17,7 @@ to clone the repository.
 
 ### 2. EXECUTE
 Use
-```TOKEN=<token> deno run -A index.ts```\
+```token=<token> deno run -A index.ts```\
 to start the bot.
 
 ### 3. FINISH
