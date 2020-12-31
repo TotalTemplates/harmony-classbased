@@ -20,6 +20,6 @@ Use
 ```TOKEN=<token> deno run -A index.ts```\
 to start the bot.
 
-### 3. 완료 / FINISH
+### 3. FINISH
 Drink the coffee you brought. DONE!   
 <image width=300px src=https://media.giphy.com/media/9UZZebsksF6ioNLpcl/giphy.gif>
